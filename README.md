@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IshaPerry
-- 👀 I’m interested in applying code to information internetworks and intelligence. 
-- 🌱 I’m currently studying Computer Science at the Georgia Institute of Technology 
-- 💞️ I’m looking to problem solve and develop code in a workplace environment
+- 🌱 GT BS & MS in CS 
 - 📫 How to reach me: https://www.linkedin.com/in/isha-perry-b27a84217/
      
      ishaperry@gatech.edu
